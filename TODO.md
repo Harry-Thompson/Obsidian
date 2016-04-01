@@ -4,4 +4,4 @@
 2. Write the bootloader
 3. Write the assembler
 4. Write the shell (YASH)
-5. Write the C_Compiler
+5. Write the C Compiler
