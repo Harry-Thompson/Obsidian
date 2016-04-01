@@ -1,8 +1,0 @@
-The roadmap is as follows
-
-1. Create the assembler
-2. Create the bootloader
-3. Create the kernel
-4. Create the C compiler & linker
-5. Create shell
-6. Create applications
