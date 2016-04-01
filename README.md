@@ -13,5 +13,5 @@ So that's why I am developing YAK, to bring a new way of designing an operating 
 ## Want to contribute?
 See anything you think you could help with within YAK? Then feel free to send me a pull request. Also don't forget to read the CONTRIBUTING.md file. If you want to know what is currently being worked on then look at the TODO.md file.
 
-## How can I install it
+## How can I install it?
 Currently the project is a long way from hitting a stable release that you can intstall. But if you really want to speed up the process, it would be much appreciated if you were to contribute to the project  
