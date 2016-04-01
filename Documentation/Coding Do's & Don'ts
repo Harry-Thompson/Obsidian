@@ -1,0 +1,4 @@
+
+1. NO posix system calls!
+2. In fact do not even import <unistd.h>
+3. Use the K&R coding style
