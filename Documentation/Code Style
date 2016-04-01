@@ -1,3 +1,4 @@
+
 YAK follows the following coding style for C
 
 
@@ -6,7 +7,6 @@ So this would be the brace placement for this while loop:
 while (foo == x) {
     return 0;
 }
-
 
 Tabs are equal to 4 - so make sure to set this in your text editor or ide
 
@@ -37,6 +37,6 @@ int main() {
 }
 
 Also make sure you do not include any POSIX system calls within your code as YAK is a non POSIX compatible operating system
-and as such system calls derived from the unistd header file will not work.
+and as such system calls derived from the <unistd.h> header file will not work.
 
 Any code you send me that does not adhere to this coding style will be rejected, so make sure you get used to this style.
