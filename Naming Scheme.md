@@ -1,4 +1,4 @@
-YAK's naming scheme is as follows:
+# YAK's naming scheme is as follows:
 Everything starts with a "YA" - This is an acronym that denotes "Yet Another"
 The Above is not true when adding YA before the name either: sounds bad or has already be taken and/or registered
 
