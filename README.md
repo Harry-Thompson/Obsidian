@@ -1,4 +1,4 @@
-# NON UNIX LIKE OS (NAME COMING SOON)
+# Non Unix Like Operating System
 A non Unix-like, non POSIX compatible opensource operating system
 
 Written in C & Assembly
