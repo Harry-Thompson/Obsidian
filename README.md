@@ -1,5 +1,5 @@
 # NON UNIX LIKE OS (NAME COMING SOON)
-A non Unix-like, non POSIX operating system
+A non Unix-like, non POSIX comattible opensource operating system
 
 Written in C & Assembly
 
