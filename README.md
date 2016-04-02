@@ -1,5 +1,6 @@
 # NON UNIX LIKE OS (NAME COMING SOON)
 A non Unix-like, non POSIX operating system
+Written in C & Assembly
 
 By Harry Thompson
 
