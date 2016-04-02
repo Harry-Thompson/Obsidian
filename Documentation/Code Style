@@ -38,8 +38,8 @@ int main() {
     start();
 }
 
-## Other stuff
-*Tab length = 4
+# Other stuff
+Tab length = 4
 
 
 Also make sure you do not include any POSIX system calls within your code as this operating system is a non POSIX compatible 
