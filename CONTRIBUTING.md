@@ -7,3 +7,7 @@ First of all your going to want to clone (or fork) the projects repository and t
 ## What needs to be done
 If you want to know what is currently being worked on or you just want something to do, take a look at the TODO.md file. Also feel free to look at the current issues
  
+## Tools to use
+
+Assembler - GAS
+Compiler - GCC
