@@ -9,6 +9,5 @@ If you want to know what is currently being worked on or you just want something
  
 ## Tools to use
 
-Assembler - GAS
-
-Compiler - GCC
+** Assembler - GAS
+* Compiler - GCC
