@@ -13,7 +13,7 @@ Unix and Unix-like operating systems are old, and we keep having to change the w
 So that's why I am developing a new operating system, to bring a new way of designing an operating systems to light.
 
 ## Want to contribute?
-There is alot of work to do and it would be much appreciated if you would be willing to contribute.Read the CONTRIBUTING.md file to find out how to get started. Also read the TODO.md file to find out what currently has to be done . Or look at the current issues to find things that you think you could do and/or fix.
+There is alot of work to do and it would be much appreciated if you would be willing to contribute. Read the CONTRIBUTING.md file to find out how to get started. Also read the TODO.md file to find out what currently has to be done . Or look at the current issues to find things that you think you could do and/or fix.
 
 ## Why should I contribute?
 Because you will be helping develop a giant leap forward interms of operating design and implemtation
