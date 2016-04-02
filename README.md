@@ -10,7 +10,7 @@ Obsidian is an attempt to rethink the way an operating sytem can work, it is non
 
 ## Why are we creating this operating system?
 Unix and Unix-like operating systems are old, and we keep having to change the way they work to satisfy the modern worlds needs.
-So that's why I am developing a new operating system, to bring a new way of designing an operating systems to light.
+So that's why I am developing a new operating system, to bring a new way of designing an operating systems to light. The object orientated design means that the operating system will be highly extendible.
 
 ## Want to contribute?
 There is alot of work to do and it would be much appreciated if you would be willing to contribute. Read the CONTRIBUTING.md file to find out how to get started. Also read the TODO.md file to find out what currently has to be done . Or look at the current issues to find things that you think you could do and/or fix.
