@@ -1,5 +1,5 @@
 # Obsidian
-An object prientated operating system
+An object orientated operating system
 
 Written in C & Assembly
 
