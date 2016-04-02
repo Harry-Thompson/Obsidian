@@ -5,7 +5,7 @@ Written in C & Assembly
 
 By Harry Thompson
 
-## What is Obsidian xactly?
+## What is Obsidian exactly?
 This operating system is an attempt to rethink the way an operating sytem can work, it is non Unix and non POSIX compatible. The goal is to create an object orientated operating system which is completely different from the mainstream operating systems around today. It is also released under the GPL v2 license.
 
 ## Why are we creating this operating system?
