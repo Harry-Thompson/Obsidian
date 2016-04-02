@@ -1,5 +1,5 @@
 # Contributing
-### Everyone can contribute, in fact since this is a brand new project, it would be heavily appreciated if you did.
+### Anyone can contribute, in fact since this is a brand new project, it would be heavily appreciated if you did.
 
 
 ## How to contribute
