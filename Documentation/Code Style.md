@@ -53,7 +53,4 @@ int main() {
 Tab length = 4
 
 
-Also make sure you do not include any POSIX system calls within your code as this operating system is a non POSIX compatible 
-operating system and as such system calls derived from the <unistd.h> header file will not work.
-
 Any code you send me that does not adhere to this coding style will be rejected, so make sure you get used to this style.
