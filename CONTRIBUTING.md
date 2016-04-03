@@ -16,3 +16,4 @@ If you want to know what is currently being worked on or you just want something
 ## Tips
 
 * Make your self known by discussing the project in the issues section
+* It is recommended that you read up on the POSIX standard
