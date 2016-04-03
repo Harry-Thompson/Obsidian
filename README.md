@@ -1,6 +1,8 @@
 # Obsidian
 ### A Unix-like Object Orientated Operating System
 
+If you see anything you think needs to be done, do it. Then send me a pull request and see if gets pulled.
+
 Written in C & Assembly
 
 By Harry Thompson
@@ -16,7 +18,7 @@ So that's why I am developing a new Unix-like operating system, to bring a new w
 Not only our we creating a kernel, we are also creating an object-orientated shell to go with it, aswell as a suite of applications to create what we feel will be a fully object-orientated operating system.
 
 ## Want to contribute?
-There is a lot of work to do and it would be much appreciated if you would be willing to contribute. Read the CONTRIBUTING.md file to find out how to get started. Also read the TODO.md file to find out what currently has to be done . Or look at the current issues to find things that you think you could do and/or fix.
+There is a lot of work to do and it would be much appreciated if you would be willing to contribute. Read the CONTRIBUTING.md file to find out how to get started. Also read the TODO.md file to find out what currently has to be done. Or look at the current issues to find things that you think you could do and/or fix.
 
 ## Why should I contribute?
 Because you will be helping develop a giant leap forward in terms of operating design and implementation. The dream of fully object-orientated operating systems has never truly been realized, that's is where Obsidian comes in, I believe that with your help we will be able to realize this dream.
