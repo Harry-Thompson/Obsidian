@@ -12,6 +12,7 @@ If you want to know what is currently being worked on or you just want something
 
 * Assembler - GAS
 * Compiler - GCC
+* It is highly recommended that you use a Unix-like operating system as a development environment
 
 ## Tips
 

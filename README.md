@@ -1,5 +1,5 @@
 # Obsidian
-###A Unix-like Object Orientated Operating System
+### A Unix-like Object Orientated Operating System
 
 Written in C & Assembly
 
