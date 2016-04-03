@@ -5,3 +5,6 @@ The Kernel is the main part of any operating system and therefore should have th
 The Kernel design that we are aiming to develop is the monolithic kernel design. The monolithic kernel design includes almost all of it's services inside the kernel itself. This I feel is the best way of designing a kernel. But we are also aiming for a modular design here, for added security. The modular design means that unnecessary bits of code (normally device drivers) can be unloaded and then loaded at a later date.
 
 The kernel is also written in C as this is probably the best language to write a kernel with (assembly would take far to long)
+
+## What should I do
+Do what you think needs to be done, then send me a pull request and see if it gets pulled.
