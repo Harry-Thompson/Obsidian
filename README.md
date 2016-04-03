@@ -13,7 +13,7 @@ The current Unix and Unix-like operating systems are old, and we keep having to 
 So that's why I am developing a new Unix-like operating system, to bring a new way of designing an operating systems to light. The object orientated design of Obsidian means that the resulting operating system would be highly extensible and stable.
 
 ## What are we creating?
-Not only our we creating a kernel, we are also creating an object-orientated shell to go with it, an assembler and a bootloader, to create what we feel will be a fully object-orientated operating system.
+Not only our we creating a kernel, we are also creating an object-orientated shell to go with it and a bootloader, to create what we feel will be a fully object-orientated operating system.
 
 ## Want to contribute?
 There is a lot of work to do and it would be much appreciated if you would be willing to contribute. Read the CONTRIBUTING.md file to find out how to get started. Also read the TODO.md file to find out what currently has to be done . Or look at the current issues to find things that you think you could do and/or fix.
