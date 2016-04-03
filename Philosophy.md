@@ -1,4 +1,8 @@
 
-# The Operating Systems's Philosophy
+# Obsidian's Design Philosophy
+Obsidian builds upon the original Unix design philosophy, but differs in a few key areas
 
-Everything is to be remade from sratch, every part of the operating system design is to be rethought
+
+* Everything is an object
+* When a program becomes old and outdated, it is scraped and rewritten from scratch
+* When writing programs you first implement security before you implement performance

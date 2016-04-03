@@ -1,6 +1,8 @@
-# The Roadmap is as follows
+# The Roadmap for Obsidian as follows
+
 
 
 1. Write the kernel
+2. Create a POSIX compliant C libary
 2. Write the bootloader
-4. Write the shell
+4. Write an object-orientated shell

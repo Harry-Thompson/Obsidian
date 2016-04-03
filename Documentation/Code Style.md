@@ -1,7 +1,7 @@
 
 # Code Style
 
-This project follows the following coding style for C
+#### Obsidian's code follows the following coding style for C
 
 
 So this would be the brace placement for this while loop:
