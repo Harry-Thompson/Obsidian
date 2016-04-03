@@ -4,5 +4,4 @@
 
 1. Write the kernel
 2. Create a POSIX compliant C libary
-2. Write the bootloader
 4. Write an object-orientated shell
