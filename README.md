@@ -17,3 +17,7 @@ There is a lot of work to do and it would be much appreciated if you would be wi
 
 ## Why should I contribute?
 Because you will be helping develop a giant leap forward in terms of operating design and implementation. The dream of fully object-orientated operating systems has never truly been realized, that's is where Obsidian comes in, I believe that with your help we will be able to realize this dream.
+
+
+## What are we creating
+Not only our we creating a kernel, we are also creating an object-orientated shell to go with it, an assembler and a bootloader, to create what we feel will be a fully object-orientated operating system.
