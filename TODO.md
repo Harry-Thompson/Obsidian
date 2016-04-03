@@ -1,5 +1,5 @@
 # TODO
+TESTING BRANCH
 
-* Get started on the kernel
-* Get started on the C library
-* Get started on the shell
+* Create boot.s
+* Port to x86_64
