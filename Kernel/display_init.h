@@ -1,1 +1,1 @@
-int startdisplay();
+void startdisplay();
