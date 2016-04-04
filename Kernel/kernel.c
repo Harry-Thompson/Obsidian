@@ -5,6 +5,6 @@
 #include "init.h"
 
 
-void main() {
+int main() {
     start_main();
 }
