@@ -1,5 +1,5 @@
 #include <unistd.h>
-#include "display_init.c"
+#include "display_init.h"
 
 int start() {
     startdisplay();
