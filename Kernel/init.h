@@ -1,1 +1,1 @@
-void start_main();
+int start_main();
