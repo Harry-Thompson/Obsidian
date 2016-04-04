@@ -10,7 +10,7 @@ If you want to know what is currently being worked on or you just want something
 
 ## Tools to use
 
-* Assembler - GAS
+* Assembler - GAS (So the AT&T syntax is used)
 * Compiler - GCC
 * It is highly recommended that you use a Unix-like operating system as a development environment
 
