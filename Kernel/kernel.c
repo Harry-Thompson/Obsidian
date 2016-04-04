@@ -5,6 +5,6 @@
 #include "init.h"
 
 
-void main() {
+void kernel_main() {
     start_main();
 }
