@@ -1,10 +1,7 @@
 #include <unistd.h>
 #include "display_init.h"
 
-int start() {
+int start_main() {
     startdisplay();
 }
 
-int main() {
-    start();
-}
