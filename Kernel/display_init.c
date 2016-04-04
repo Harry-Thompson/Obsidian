@@ -3,7 +3,7 @@
 #include <stdbool.h>
 
 
-enum vga_colors {
+enum vga_color {
     COLOR_BLACK = 0,
 	COLOR_BLUE = 1,
 	COLOR_GREEN = 2,
