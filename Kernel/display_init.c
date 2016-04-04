@@ -87,6 +87,6 @@ void terminal_writestring(const char* data) {
 }
 
 void startdisplay() {
-    init_terminal();
+    terminal_initialize();
     terminal_writestring("Welcome to Obsidian\n");
 }
