@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 
-#include "start.c"
+#include "init.c"
 
 
 int kernel_main() {
