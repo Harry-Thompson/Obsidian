@@ -18,7 +18,7 @@ stack_top:
 .section .text
 .global _start
 .type _start, @function
-_start::
+_start:
 	movl $stack_top, %esp
 	
 	call main
