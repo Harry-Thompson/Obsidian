@@ -1,14 +1,14 @@
 # Declaring variables
 .set ALIGN,         1<<0                         # Align any loaded modules to the page boundaries
 .set MEMINFO,       1<<1                         # Provide mapping of memory
-.set MULTIFIELD,    ALIGN | MEMINFO              # Multiboot field
-.set HEADERLOCAL,   0x1BADB002                   # Allows the bootloader (GRUB 2) to find the header
+.set FLAGS,    ALIGN | MEMINFO              # Multiboot field
+.set MAGIC,   0x1BADB002                   # Allows the bootloader (GRUB 2) to find the header
 .set CHECKSUM,      -(HEADERLOCAL + MULTIFIELD)  # This is the checksum of the HEADERLOCAL, this is used to tell us whether or not we are in multiboot
 
 
 .section .multiboot
 .align 4
-.long MULTIFIELD
+.long MAGIC
 .long FLAGS
 .long CHECKSUM
 
