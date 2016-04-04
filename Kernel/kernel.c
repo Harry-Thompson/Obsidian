@@ -6,5 +6,5 @@
 
 
 int kernel_main() {
-    start();
+    start_main();
 }
