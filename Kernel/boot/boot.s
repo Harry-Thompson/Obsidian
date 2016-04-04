@@ -15,7 +15,7 @@
 
 # Allocating own stack to avoid damage
 
-.section .bootstrap_stack, "stack", @nobits
+.section .bootstrap_stack, "aw", @nobits
 stack_bottom:
 .skip 16384 # 16 KiB
 stack_top:
