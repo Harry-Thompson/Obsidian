@@ -30,7 +30,7 @@ _start:
             movl $stack_top, %esp
 
             # Call C code
-            call kernel_main
+            call main
 
             cli
             hlt
